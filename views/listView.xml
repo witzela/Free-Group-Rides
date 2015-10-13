@@ -1,0 +1,9 @@
+<Alloy>
+	<View>
+
+		<Require src="topBar" />
+
+		<Require src="table" />
+
+	</View>
+</Alloy>

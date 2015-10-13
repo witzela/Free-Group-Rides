@@ -1,0 +1,19 @@
+"#table": {
+	bottom: 0,
+	height: '88%',
+	width: '100%',
+	backgroundColor: '#E2E2E2',
+	separatorColor: '#777',
+	separatorInsets: {
+	    left: '15dp',
+	    right: '15dp'
+	}
+}
+
+"#topBar": {
+	top: '0dp',
+	height: '12%',
+	width: '100%',
+}
+
+

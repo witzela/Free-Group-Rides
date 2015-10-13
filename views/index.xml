@@ -1,0 +1,5 @@
+<Alloy>
+	<Window id="index" class="container">
+		<Require src="listView" id="listView" />
+	</Window>
+</Alloy>

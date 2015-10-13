@@ -1,0 +1,16 @@
+".container": {
+	backgroundColor:"white",
+	width: Ti.UI.SIZE,
+	height: Ti.UI.SIZE,
+	layout: 'vertical'
+}
+
+"Label": {
+	color: "#555"
+}
+
+"#label": {
+	font: {
+		fontSize: 12
+	}
+}

@@ -1,0 +1,5 @@
+<Alloy>
+	<Label id="author" />
+	<Label id="title" />
+	<Labelid="pubDate" />
+</Alloy>
